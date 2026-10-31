@@ -2,7 +2,9 @@
 
 Swiss in ink on warm paper, with a deeper orange accent.
 
-![Preview](preview.png)
+[![Preview](https://raw.githubusercontent.com/lagz0ne/omarchy-swiss/main/docs/swiss-light.webp)](https://github.com/lagz0ne/omarchy-swiss/releases/download/v1.0/omarchy-swiss-light.mp4)
+
+<sub>Click the preview for the full-quality video.</sub>
 
 ## Install
 
